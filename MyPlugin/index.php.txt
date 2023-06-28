@@ -1,1 +1,3 @@
 Hello world....... this is my new plugin hope you enjoy while working on it !!
+
+mysqli_connect("plugindB.php");
